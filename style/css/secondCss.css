@@ -24,7 +24,8 @@ header{
 article{
     border: 2px solid #001dff; /*blue*/
     overflow:hidden;
-    height:70vh;
+    padding:0.2%;
+    height:100%;
     
 }
 
@@ -71,6 +72,9 @@ border:2px dashed green;
 
 background-color:#21a276;
 border:2px dotted #808080;
+margin-left:10px;
+padding-left:2%;
+
 }
 
 .col-md-2 {
@@ -79,3 +83,25 @@ background-color:#dd00ff;
 border:2px dotted #808080;
 }
 
+/*HEADER ROW*/
+.col-md-4 {
+background-color:#dd00ff;
+border:2px dotted #0ffc81;
+/*height:35vh;*/
+margin:0.5%;
+padding-left:1%;
+}
+
+.col-md-3 {
+border:2px solid black;
+margin:0.5%;
+padding-left:1%;
+
+}
+
+
+
+
+.headerRow {
+
+}
