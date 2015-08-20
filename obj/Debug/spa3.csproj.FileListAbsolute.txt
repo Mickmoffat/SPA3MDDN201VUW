@@ -1,0 +1,6 @@
+d:\Users\mickmoffat\documents\visual studio 2013\Projects\spa3\spa3\bin\spa3.dll.config
+d:\Users\mickmoffat\documents\visual studio 2013\Projects\spa3\spa3\bin\spa3.dll
+d:\Users\mickmoffat\documents\visual studio 2013\Projects\spa3\spa3\bin\spa3.pdb
+d:\Users\mickmoffat\documents\visual studio 2013\Projects\spa3\spa3\obj\Debug\spa3.csprojResolveAssemblyReference.cache
+d:\Users\mickmoffat\documents\visual studio 2013\Projects\spa3\spa3\obj\Debug\spa3.dll
+d:\Users\mickmoffat\documents\visual studio 2013\Projects\spa3\spa3\obj\Debug\spa3.pdb

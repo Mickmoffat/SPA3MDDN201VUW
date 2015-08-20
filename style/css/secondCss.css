@@ -1,0 +1,81 @@
+/*** SPA#3 (300317288) WIREFRAME CSS TEMPATE SECOND CSS***/
+
+
+
+/*** BASIC ELEMENTS ***/
+body {
+border: 2px solid #dd00ff;
+padding:0.5%;
+}
+/* NAV */
+nav {
+   border: 2px solid #0ffc81;
+}
+
+
+header{
+    border: 2px dashed #b200ff;
+    height: 100px;
+    height:20vh;
+    background-color:#418C8E;
+    
+}
+
+article{
+    border: 2px solid #001dff; /*blue*/
+    overflow:hidden;
+    height:70vh;
+    
+}
+
+/* CONTENT SIDE */
+
+/* FONT SIZE */
+h1,h2,h4 {
+color:#F1F2F4;
+}
+
+h3 {
+    color:#F3841E;
+}
+
+h1 {
+    font-size:50px;
+    margin-top:2.5%;
+    
+}
+
+
+p,li {
+color:#F1F2F4;
+}
+
+footer {
+ border: 2px solid #5a65e4;
+ height:180px;
+ height:22vh;
+ overflow:hidden;
+ background-color:#418C8E;
+
+}
+
+
+/** GRID SYSTEM **/
+
+.container-fluid {
+color:green;
+border:2px dashed green;
+
+}
+.col-md-1 {
+
+background-color:#21a276;
+border:2px dotted #808080;
+}
+
+.col-md-2 {
+
+background-color:#dd00ff;
+border:2px dotted #808080;
+}
+

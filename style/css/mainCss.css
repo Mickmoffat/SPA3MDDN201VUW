@@ -1,0 +1,135 @@
+/*** SPA#3 (300317288) WIREFRAME CSS TEMPATE MAIN CSS***/
+
+
+
+/*** BASIC ELEMENTS ***/
+body {
+border: 2px solid #dd00ff;
+padding:0.5%;
+}
+/* NAV */
+nav {
+   border: 2px solid #0ffc81;
+}
+
+#navPad {
+padding-bottom:50px;
+width:100%;
+display:inline-block;
+}
+.navUl {
+    display:inline-block;
+
+}
+header{
+    border: 2px dashed #b200ff;
+    height: 100px;
+    height:20vh;
+    background-color:#418C8E;
+    
+}
+
+article{
+    border: 2px solid #001dff; /*blue*/
+    overflow:hidden;
+    height:70vh;
+    
+}
+
+/* CONTENT SIDE */
+#contentLeftSide {
+    float:left;
+    height:100%;
+    position:relative;
+    width:20vw;
+    background-color:#F3841E;
+    border: 2px solid #059847;
+}
+
+#contentRightSide {
+    float:right;
+    height:100%;
+    position:relative;
+    width:30%;
+    width:20vw;
+    background-color:#F3841E;
+    border: 2px solid #059847;
+}
+
+/* CONTENT CENTER */
+#contentCenter {
+    float:left;
+    position:relative;
+    margin-left:0.5%;
+    height:100%;
+    width:78.5%;
+    
+    
+    background-color:#6323b2;
+    overflow:hidden;
+    
+
+}
+
+/** GOOGLE IMAGE **/
+#imageAlign {
+    margin-left:-50px;
+}
+
+.img-responsive {
+margin: 0 auto;
+}
+
+/* FONT SIZE */
+h1,h2,h3,h4 {
+color:#F1F2F4;
+}
+
+h1 {
+    font-size:50px;
+    margin-top:2.5%;
+    
+}
+
+
+p,li {
+color:#F1F2F4;
+}
+
+footer {
+ border: 2px solid #5a65e4;
+ height:180px;
+ height:22vh;
+ overflow:hidden;
+ background-color:#418C8E;
+
+}
+#imageAlignFooter {
+    padding-bottom:0.5%;
+    float:left;
+
+}
+
+/** GRID SYSTEM **/
+#gridRow {
+border:2px dashed red;
+}
+
+.row-fluid {
+border:2px dashed orange;
+
+}
+
+.span2 {
+border:2px dashed red;
+}
+
+.span6 {
+border:2px dashed #4cff00;
+}
+.container-fluid {
+color:green;
+border:2px dashed green;
+
+}
+
